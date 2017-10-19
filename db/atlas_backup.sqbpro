@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/sspagnuolo/data/atlas/atlas.db" foreign_keys="1"/><window><current_tab id="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2365"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="atlas"/><default_encoding codec=""/><browsetable_info data="AAAAAA=="/></tab_browse><tab_sql><sql name="cidades-jor_online.sql">select cidade,uf,count(id) from d
-group by cidade
-order by count(id) DESC</sql><sql name="estados-jor_online.sql">select uf,count(id) from d
-group by uf
-order by count(id) DESC</sql><current_tab id="1"/></tab_sql></sqlb_project>

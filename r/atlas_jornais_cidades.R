@@ -8,7 +8,7 @@ d <- read.csv("../tabelas/atlas_cidades_jornais+online_idhm.csv", header = T)
 str(d)
 
 # Principais estatísticas gerais - inclui JORNAIS + ONLINE
-summary(d[c("meio","cidade","uf","veiculos_mapeados")])
+summary(d[c("cidade","uf","regiao_metropolitana","veiculos_mapeados")])
 
 # Subset de JORNAIS e de ONLINE
 jornais <- subset(d, meio=="Jornal")
