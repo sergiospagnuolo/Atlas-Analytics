@@ -1,0 +1,27 @@
+uf,estado,meio,veiculos_mapeados,regiao_metropolitana,regiao,pais,POP,RDPC,I_ESCOLARIDADE,IDHM,IDHM_E,IDHM_L,IDHM_R
+SP,São Paulo,Jornal,861,n/d,Sudeste,Brasil,84511.0,977.39,0.613,0.79,0.744,0.857,0.772
+RS,Rio Grande do Sul,Jornal,463,RM Porto Alegre,Sul,Brasil,237679.0,707.05,0.576,0.717,0.591,0.866,0.72
+SC,Santa Catarina,Jornal,414,n/d,Sul,Brasil,25674.0,783.29,0.494,0.752,0.662,0.871,0.737
+RJ,Rio de Janeiro,Jornal,260,n/d,Sudeste,Brasil,257116.0,920.51,0.672,0.771,0.72,0.833,0.763
+PR,Paraná,Jornal,223,n/d,Sul,Brasil,19117.0,594.42,0.436,0.687,0.594,0.79,0.692
+GO,Goiás,Jornal,143,RIDE DF,Centro-Oeste,Brasil,132705.0,764.73,0.663,0.746,0.695,0.815,0.733
+DF,Distrito Federal,Jornal,79,RIDE DF,Centro-Oeste,Brasil,2543802.0,1715.11,0.723,0.824,0.742,0.873,0.863
+MT,Mato Grosso,Jornal,75,n/d,Centro-Oeste,Brasil,251845.0,668.86,0.604,0.734,0.661,0.842,0.711
+BA,Bahia,Jornal,71,n/d,Nordeste,Brasil,304599.0,555.66,0.493,0.678,0.581,0.788,0.681
+ES,Espírito Santo,Jornal,71,n/d,Sudeste,Brasil,325399.0,1866.58,0.789,0.845,0.805,0.855,0.876
+MS,Mato Grosso do Sul,Jornal,69,n/d,Centro-Oeste,Brasil,101171.0,863.66,0.579,0.744,0.645,0.849,0.752
+RO,Rondônia,Jornal,29,n/d,Norte,Brasil,75614.0,768.98,0.554,0.731,0.659,0.808,0.734
+CE,Ceará,Jornal,28,n/d,Nordeste,Brasil,186474.0,448.89,0.543,0.714,0.675,0.832,0.647
+PA,Pará,Jornal,27,n/d,Norte,Brasil,293064.0,409.07,0.569,0.691,0.648,0.807,0.632
+MA,Maranhão,Jornal,24,n/d,Nordeste,Brasil,1005101.0,805.36,0.735,0.768,0.752,0.813,0.741
+PE,Pernambuco,Jornal,21,n/d,Nordeste,Brasil,129301.0,401.16,0.401,0.64,0.543,0.768,0.629
+TO,Tocantins,Jornal,19,n/d,Norte,Brasil,48750.0,621.1,0.604,0.74,0.701,0.826,0.699
+RN,Rio Grande do Norte,Jornal,15,n/d,Nordeste,Brasil,200906.0,850.44,0.682,0.766,0.726,0.825,0.75
+AM,Amazonas,Jornal,11,n/d,Norte,Brasil,1793443.0,790.27,0.679,0.737,0.658,0.826,0.738
+AL,Alagoas,Jornal,9,n/d,Nordeste,Brasil,70002.0,391.37,0.379,0.638,0.523,0.794,0.625
+PB,Paraíba,Jornal,9,n/d,Nordeste,Brasil,21201.0,334.74,0.333,0.606,0.514,0.72,0.6
+AC,Acre,Jornal,8,n/d,Norte,Brasil,333052.0,744.67,0.607,0.727,0.661,0.798,0.729
+PI,Piauí,Jornal,6,n/d,Nordeste,Brasil,20289.0,380.19,0.417,0.647,0.566,0.773,0.62
+SE,Sergipe,Jornal,6,n/d,Nordeste,Brasil,565274.0,1052.03,0.695,0.77,0.708,0.823,0.784
+RR,Roraima,Jornal,4,n/d,Norte,Brasil,281538.0,786.55,0.687,0.752,0.708,0.816,0.737
+AP,Amapá,Jornal,3,n/d,Norte,Brasil,395465.0,717.88,0.679,0.733,0.663,0.82,0.723

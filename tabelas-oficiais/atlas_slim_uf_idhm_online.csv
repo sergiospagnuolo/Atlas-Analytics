@@ -1,0 +1,27 @@
+uf,estado,meio,veiculos_mapeados,regiao_metropolitana,regiao,pais,POP,RDPC,I_ESCOLARIDADE,IDHM,IDHM_E,IDHM_L,IDHM_R
+SP,São Paulo,Online,765,n/d,Sudeste,Brasil,62563.0,926.96,0.587,0.771,0.704,0.852,0.764
+RJ,Rio de Janeiro,Online,193,n/d,Sudeste,Brasil,257116.0,920.51,0.672,0.771,0.72,0.833,0.763
+PR,Paraná,Online,125,n/d,Sul,Brasil,19117.0,594.42,0.436,0.687,0.594,0.79,0.692
+SC,Santa Catarina,Online,123,n/d,Sul,Brasil,96823.0,1077.62,0.648,0.796,0.74,0.866,0.788
+RS,Rio Grande do Sul,Online,119,RM Porto Alegre,Sul,Brasil,237679.0,707.05,0.576,0.717,0.591,0.866,0.72
+DF,Distrito Federal,Online,118,RIDE DF,Centro-Oeste,Brasil,2543802.0,1715.11,0.723,0.824,0.742,0.873,0.863
+BA,Bahia,Online,52,n/d,Nordeste,Brasil,304599.0,555.66,0.493,0.678,0.581,0.788,0.681
+GO,Goiás,Online,52,n/d,Centro-Oeste,Brasil,84279.0,537.58,0.538,0.701,0.617,0.827,0.676
+MS,Mato Grosso do Sul,Online,44,n/d,Centro-Oeste,Brasil,101171.0,863.66,0.579,0.744,0.645,0.849,0.752
+MT,Mato Grosso,Online,44,n/d,Centro-Oeste,Brasil,251845.0,668.86,0.604,0.734,0.661,0.842,0.711
+RO,Rondônia,Online,37,n/d,Norte,Brasil,75614.0,768.98,0.554,0.731,0.659,0.808,0.734
+PB,Paraíba,Online,26,n/d,Nordeste,Brasil,19025.0,321.53,0.281,0.591,0.461,0.755,0.594
+CE,Ceará,Online,21,n/d,Nordeste,Brasil,71409.0,317.45,0.405,0.642,0.567,0.789,0.592
+AM,Amazonas,Online,20,n/d,Norte,Brasil,1793443.0,790.27,0.679,0.737,0.658,0.826,0.738
+PI,Piauí,Online,20,n/d,Nordeste,Brasil,806168.0,757.57,0.642,0.751,0.707,0.82,0.731
+PE,Pernambuco,Online,19,n/d,Nordeste,Brasil,86786.0,507.05,0.353,0.648,0.506,0.806,0.667
+TO,Tocantins,Online,18,n/d,Norte,Brasil,225432.0,1087.35,0.746,0.788,0.749,0.827,0.789
+ES,Espírito Santo,Online,17,n/d,Sudeste,Brasil,325399.0,1866.58,0.789,0.845,0.805,0.855,0.876
+RN,Rio Grande do Norte,Online,15,n/d,Nordeste,Brasil,797986.0,950.34,0.659,0.763,0.694,0.835,0.768
+PA,Pará,Online,14,n/d,Norte,Brasil,78878.0,300.85,0.379,0.588,0.45,0.776,0.583
+SE,Sergipe,Online,14,n/d,Nordeste,Brasil,94431.0,362.8,0.36,0.625,0.515,0.775,0.613
+AL,Alagoas,Online,11,n/d,Nordeste,Brasil,60049.0,339.15,0.407,0.63,0.536,0.774,0.602
+MA,Maranhão,Online,9,n/d,Nordeste,Brasil,1005101.0,805.36,0.735,0.768,0.752,0.813,0.741
+AC,Acre,Online,8,n/d,Norte,Brasil,333052.0,744.67,0.607,0.727,0.661,0.798,0.729
+AP,Amapá,Online,4,n/d,Norte,Brasil,395465.0,717.88,0.679,0.733,0.663,0.82,0.723
+RR,Roraima,Online,2,n/d,Norte,Brasil,281538.0,786.55,0.687,0.752,0.708,0.816,0.737

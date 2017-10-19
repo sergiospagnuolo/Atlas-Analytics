@@ -1,0 +1,27 @@
+uf,estado,veiculos_mapeados,regiao_metropolitana,regiao,pais,POP,RDPC,I_ESCOLARIDADE,IDHM,IDHM_E,IDHM_L,IDHM_R
+SP,São Paulo,1626,n/d,Sudeste,Brasil,84511.0,977.39,0.613,0.79,0.744,0.857,0.772
+RS,Rio Grande do Sul,582,RM Porto Alegre,Sul,Brasil,237679.0,707.05,0.576,0.717,0.591,0.866,0.72
+SC,Santa Catarina,537,n/d,Sul,Brasil,25674.0,783.29,0.494,0.752,0.662,0.871,0.737
+RJ,Rio de Janeiro,453,n/d,Sudeste,Brasil,257116.0,920.51,0.672,0.771,0.72,0.833,0.763
+PR,Paraná,348,n/d,Sul,Brasil,19117.0,594.42,0.436,0.687,0.594,0.79,0.692
+DF,Distrito Federal,197,RIDE DF,Centro-Oeste,Brasil,2543802.0,1715.11,0.723,0.824,0.742,0.873,0.863
+GO,Goiás,195,RIDE DF,Centro-Oeste,Brasil,132705.0,764.73,0.663,0.746,0.695,0.815,0.733
+BA,Bahia,123,n/d,Nordeste,Brasil,304599.0,555.66,0.493,0.678,0.581,0.788,0.681
+MT,Mato Grosso,119,n/d,Centro-Oeste,Brasil,251845.0,668.86,0.604,0.734,0.661,0.842,0.711
+MS,Mato Grosso do Sul,113,n/d,Centro-Oeste,Brasil,101171.0,863.66,0.579,0.744,0.645,0.849,0.752
+ES,Espírito Santo,88,n/d,Sudeste,Brasil,325399.0,1866.58,0.789,0.845,0.805,0.855,0.876
+RO,Rondônia,66,n/d,Norte,Brasil,75614.0,768.98,0.554,0.731,0.659,0.808,0.734
+CE,Ceará,49,n/d,Nordeste,Brasil,186474.0,448.89,0.543,0.714,0.675,0.832,0.647
+PA,Pará,41,n/d,Norte,Brasil,78878.0,300.85,0.379,0.588,0.45,0.776,0.583
+PE,Pernambuco,40,n/d,Nordeste,Brasil,129301.0,401.16,0.401,0.64,0.543,0.768,0.629
+TO,Tocantins,37,n/d,Norte,Brasil,48750.0,621.1,0.604,0.74,0.701,0.826,0.699
+PB,Paraíba,35,n/d,Nordeste,Brasil,19025.0,321.53,0.281,0.591,0.461,0.755,0.594
+MA,Maranhão,33,n/d,Nordeste,Brasil,1005101.0,805.36,0.735,0.768,0.752,0.813,0.741
+AM,Amazonas,31,n/d,Norte,Brasil,1793443.0,790.27,0.679,0.737,0.658,0.826,0.738
+RN,Rio Grande do Norte,30,n/d,Nordeste,Brasil,200906.0,850.44,0.682,0.766,0.726,0.825,0.75
+PI,Piauí,26,n/d,Nordeste,Brasil,20289.0,380.19,0.417,0.647,0.566,0.773,0.62
+AL,Alagoas,20,n/d,Nordeste,Brasil,60049.0,339.15,0.407,0.63,0.536,0.774,0.602
+SE,Sergipe,20,n/d,Nordeste,Brasil,94431.0,362.8,0.36,0.625,0.515,0.775,0.613
+AC,Acre,16,n/d,Norte,Brasil,333052.0,744.67,0.607,0.727,0.661,0.798,0.729
+AP,Amapá,7,n/d,Norte,Brasil,395465.0,717.88,0.679,0.733,0.663,0.82,0.723
+RR,Roraima,6,n/d,Norte,Brasil,281538.0,786.55,0.687,0.752,0.708,0.816,0.737

@@ -1,0 +1,11 @@
+regiao_metropolitana,veiculos_mapeados,uf,estado,regiao,pais,POP,RDPC,I_ESCOLARIDADE,IDHM,IDHM_E,IDHM_L,IDHM_R
+n/d,2946,SC,Santa Catarina,Sul,Brasil,25674.0,783.29,0.494,0.752,0.662,0.871,0.737
+RM São Paulo,909,SP,São Paulo,Sudeste,Brasil,243983.0,812.19,0.653,0.769,0.71,0.863,0.742
+RM Rio de Janeiro,300,RJ,Rio de Janeiro,Sudeste,Brasil,77485.0,604.82,0.572,0.713,0.648,0.805,0.695
+RM Porto Alegre,244,RS,Rio Grande do Sul,Sul,Brasil,237679.0,707.05,0.576,0.717,0.591,0.866,0.72
+RIDE DF,219,GO,Goiás,Centro-Oeste,Brasil,132705.0,764.73,0.663,0.746,0.695,0.815,0.733
+RM Curitiba,115,PR,Paraná,Sul,Brasil,263194.0,846.93,0.617,0.758,0.678,0.859,0.749
+RM Salvador,37,BA,Bahia,Nordeste,Brasil,2650633.0,973.0,0.697,0.759,0.679,0.835,0.772
+RM Fortaleza,25,CE,Ceará,Nordeste,Brasil,31405.0,328.2,0.43,0.637,0.581,0.746,0.597
+RM Recife,22,PE,Pernambuco,Nordeste,Brasil,1524313.0,1144.26,0.664,0.772,0.698,0.825,0.798
+RM Belém,21,PA,Pará,Norte,Brasil,172265.0,467.32,0.536,0.673,0.582,0.8,0.654
