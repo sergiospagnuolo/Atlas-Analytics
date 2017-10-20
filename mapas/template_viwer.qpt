@@ -1,0 +1,72 @@
+<Composer title="100kham_uf" visible="1">
+ <Composition resizeToContentsMarginLeft="2" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{77f3841e-907a-4801-a67b-e9a921202c93}" alignmentSnap="1" printResolution="300" paperWidth="296.926" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="2.500000000000001" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210.058" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+  <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+   <layer pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="0,0,0,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+   </layer>
+  </symbol>
+  <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Fonte: Atlas da Notícia/PNUD" htmlState="0" halign="1">
+   <LabelFont description="Futura,10,-1,5,75,0,0,0,0,0" style="Medium"/>
+   <FontColor red="0" blue="0" green="0"/>
+   <ComposerItem pagey="154.699" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="91.7244" y="154.699" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="30.1185" outlineWidth="0.3" excludeFromExports="0" uuid="{6258edae-2352-4248-a1b4-d597a12d7133}" height="11.2944" itemRotation="0" frame="false" pagex="91.7244">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLabel>
+  <ComposerLegend symbolWidth="7" title="" rasterBorderWidth="0" titleAlignment="1" map="0" wmsLegendWidth="29" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#444444" legendFilterByAtlas="0" columnCount="1" wmsLegendHeight="28" columnSpace="2" symbolHeight="4" equalColumnWidth="0" resizeToContents="1" splitLayer="0" boxSpace="4" rasterBorder="1">
+   <styles>
+    <style marginBottom="2" name="title">
+     <styleFont description="Futura,18,-1,5,75,0,1,0,0,0" style="Medium"/>
+    </style>
+    <style marginTop="2" name="group">
+     <styleFont description="Futura,14,-1,5,75,0,0,0,0,0" style="Medium"/>
+    </style>
+    <style marginTop="2" name="subgroup">
+     <styleFont description="Futura,14,-1,5,75,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" name="symbol">
+     <styleFont description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+    </style>
+    <style marginTop="2" marginLeft="2" name="symbolLabel">
+     <styleFont description="Futura,14,-1,5,75,0,0,0,0,0" style="Medium"/>
+    </style>
+   </styles>
+   <ComposerItem pagey="121.424" page="1" id="" lastValidViewScaleFactor="-1" positionMode="4" positionLock="false" x="6.62266" y="121.424" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="121.581" outlineWidth="0.3" excludeFromExports="0" uuid="{28220498-41c3-4898-96d3-e3de1758ce0c}" height="48.5906" itemRotation="0" frame="false" pagex="6.62266">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="245" blue="245" green="245"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerLegend>
+  <ComposerPicture resizeMode="3" svgBorderWidth="0.2" pictureRotation="0" pictureWidth="92.4088" svgFillColor="255,255,255,255" svgBorderColor="0,0,0,255" northMode="0" file="../../Dropbox/GitHub/atlas-noticia/img/atlas_logo.png" northOffset="0" pictureHeight="46.2044" mapId="0" anchorPoint="0">
+   <ComposerItem pagey="170.014" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="-21.5621" y="170.014" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="92.4088" outlineWidth="0.3" excludeFromExports="0" uuid="{2144ac2c-6e74-43d4-9b67-9030a711b151}" height="46.2044" itemRotation="0" frame="false" pagex="-21.5621">
+    <FrameColor alpha="255" red="0" blue="0" green="0"/>
+    <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+    <dataDefinedSource expr="" field="" active="false" useExpr="true"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerPicture>
+  <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="false" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+   <Extent ymin="6259806.94303886592388153" xmin="-5081145.28255675081163645" ymax="10632098.61708888970315456" xmax="1703574.63863025745376945"/>
+   <LayerSet/>
+   <Grid/>
+   <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+   <ComposerItem pagey="20.7591" page="1" id="" lastValidViewScaleFactor="2.9218" positionMode="0" positionLock="false" x="3" y="20.7591" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="bevel" blendMode="0" width="289" outlineWidth="0.8" excludeFromExports="0" uuid="{77f3841e-907a-4801-a67b-e9a921202c93}" height="186.241" itemRotation="0" frame="true" pagex="3">
+    <FrameColor alpha="255" red="24" blue="130" green="130"/>
+    <BackgroundColor alpha="255" red="219" blue="219" green="219"/>
+    <customproperties/>
+   </ComposerItem>
+  </ComposerMap>
+  <customproperties/>
+ </Composition>
+</Composer>
