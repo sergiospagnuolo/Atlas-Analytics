@@ -1,0 +1,11 @@
+regiao_metropolitana,meio,veiculos_mapeados,vei100milh,estado,regiao,pais,POP,RDPC,I_ESCOLARIDADE,IDHM,IDHM_E,IDHM_L,IDHM_R
+RM São Paulo,Jornal,284,1.43,São Paulo,Sudeste,Brasil,19834192.0,1045.89,0.755,0.829,0.824,0.88,0.783
+RM Porto Alegre,Jornal,150,3.72,Rio Grande do Sul,Sul,Brasil,4035601.0,1046.75,0.703,0.786,0.699,0.875,0.783
+RM Rio de Janeiro,Jornal,125,1.06,Rio de Janeiro,Sudeste,Brasil,11837501.0,1005.8,0.759,0.79,0.746,0.848,0.777
+RIDE DF,Jornal,103,3.59,Goiás,Centro-Oeste,Brasil,2872689.0,1508.74,0.798,0.839,0.794,0.881,0.842
+RM Belo Horizonte,Jornal,63,1.22,Minas Gerais,Sudeste,Brasil,5147982.0,974.01,0.698,0.799,0.759,0.866,0.772
+RM Curitiba,Jornal,54,1.59,Paraná,Sul,Brasil,3388196.0,1108.18,0.737,0.814,0.788,0.863,0.792
+RM Salvador,Jornal,14,0.36,Bahia,Nordeste,Brasil,3896521.0,728.17,0.731,0.748,0.715,0.804,0.725
+RM Fortaleza,Jornal,13,0.35,Ceará,Nordeste,Brasil,3739407.0,564.03,0.669,0.747,0.746,0.81,0.684
+RM Belém,Jornal,12,0.55,Pará,Norte,Brasil,2170415.0,606.69,0.736,0.735,0.726,0.782,0.696
+RM Recife,Jornal,8,0.21,Pernambuco,Nordeste,Brasil,3891802.0,630.37,0.678,0.748,0.735,0.808,0.702
