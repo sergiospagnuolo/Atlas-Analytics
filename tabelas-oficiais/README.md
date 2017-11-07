@@ -52,3 +52,14 @@ Tabela com total de jornais impressos por região; população, renda média, í
 
 [atlas_slim_regioes_idhm_online.csv](https://github.com/voltdatalab/Atlas-Analytics/blob/master/tabelas-oficiais/regioes/atlas_slim_regioes_idhm_online.csv)
 Tabela com total de veículos online por região; população, renda média, índice de escolaridade, IDHM, IDHM_E, IDHM_L e IDHM_R considerados nos dados do IDHM de 2010 para cada região.
+
+REGIÕES METROPOLITANAS
+
+[atlas_slim_rm_idhm_jornal_online.csv](https://github.com/voltdatalab/Atlas-Analytics/blob/master/tabelas-oficiais/rms/atlas_slim_rm_idhm_jornal_online.csv)
+Tabela com total de veículos mapeados (números absolutos e a cada 100 mil habitantes) por região metropolitana; população, renda média, índice de escolaridade, IDHM, IDHM_E, IDHM_L e IDHM_R considerados nos dados do IDHM de 2010 para cada região metropolitana.
+
+[atlas_slim_rm_idhm_jornal.csv](https://github.com/voltdatalab/Atlas-Analytics/blob/master/tabelas-oficiais/rms/atlas_slim_rm_idhm_jornal.csv)
+Tabela com total de jornais impressos (números absolutos e a cada 100 mil habitantes) por região metropolitana; população, renda média, índice de escolaridade, IDHM, IDHM_E, IDHM_L e IDHM_R considerados nos dados do IDHM de 2010 para cada região metropolitana.
+
+[atlas_slim_rm_idhm_online.csv](https://github.com/voltdatalab/Atlas-Analytics/blob/master/tabelas-oficiais/rms/atlas_slim_rm_idhm_online.csv)
+Tabela com total de veículos online (números absolutos e a cada 100 mil habitantes) por região metropolitana; população, renda média, índice de escolaridade, IDHM, IDHM_E, IDHM_L e IDHM_R considerados nos dados do IDHM de 2010 para cada região metropolitana.
