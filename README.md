@@ -19,26 +19,27 @@ Fontes:
 
 | Descrição         | Repositório tabular de análises feitas a partir de dados do levantamento Atlas da Notícia |
 |-------------------|-------------------------------------------------------------------------------------------|
-| Nota              | Inclui informações apenas sobre meios jornal impresso e noticiário online                 |
-| Link              | www.atlas.jor.br                                                                          |
-| Data dos dados    | setembro/2017                                                                             |
-| Data das análises | outubro/2017                                                                              |
-| Dados do IDHM     | 2013, com base no senso 2010                                                              |
-| Github            | Atlas Analytics - Volt Data Lab (CSV, DB, SQL)                                            |
+| **Nota**              | Inclui informações apenas sobre meios jornal impresso e noticiário online             |
+| **Link**              | www.atlas.jor.br                                                                      |
+| **Data dos dados**    | setembro/2017                                                                         |
+| **Data das análises** | outubro/2017                                                                          |
+| **Dados do IDHM**    | 2013, com base no senso 2010                                                           |
+| **Github**        | Atlas Analytics - Volt Data Lab (CSV, DB, SQL)                                            |
 |                   |                                                                                           |
-| Fontes            | Levantamento Atlas da Notícia                                                             |
+| **Fontes**        | Levantamento Atlas da Notícia                                                             |
 |                   | Associação Nacional de Jornais                                                            |
 |                   | Secretaria de Comunicação da Presidência da República                                     |
 |                   | Atlas Brasil/PNUD/IDHM                                                                    |
 |                   | Instituto Brasileiro de Geografia e Estatística                                           |
 |                   |                                                                                           |
-| Créditos          | Realização                                                                                |
+| **Créditos**      | *Realização*                                                                              |
 |                   | Angela Pimenta - Projor                                                                   |
 |                   | Pedro Varoni - Observatório da Imprensa                                                   |
 |                   | Adriana Garcia - Projor                                                                   |
 |                   | Francisco Belda - Projor                                                                  |
 |                   |                                                                                           |
-|                   | Desenvolvimento e Análises                                                                |
+|                   | *Desenvolvimento, Pesquisa e Análises*                                                    |
 |                   | Sérgio Spagnuolo - Volt Data Lab                                                          |
 |                   | Renata M. Hirota - Volt Data Lab                                                          |
 |                   | Felippe Mercurio - Volt Data Lab                                                          |
+|                   | Heloisa Pizzo - Volt Data Lab                                                             |
