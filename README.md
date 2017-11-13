@@ -1,4 +1,5 @@
-# Atlas-Analytics
+![Atlas Analytics](https://img.shields.io/badge/Atlas%20Analytics-v.0.1-green.svg)
+
 Repositório de dados e análises do **Atlas da Notícia**, é uma iniciativa para mapear veículos produtores de notícias – especialmente de jornalismo local – no território brasileiro.
 
 O projeto é uma iniciativa do o Instituto para o Desenvolvimento do Jornalismo (Projor), mantenedor do Observatório da Imprensa, em parceria com Volt Data Lab.
@@ -11,7 +12,7 @@ Fontes:
 
 * Dados sobre jornais e veículos online da Secretaria de Comunicação da Presidência da República (SECOM/PR), obtidos via Lei de Acesso  Informação 
 
-* Associação Nacional dos Jornais (ANJ), obtida através de pedido direto e abertura dos dados no site
+* Associação Nacional dos Jornais (ANJ), obtida através de pedido direto e abertura dos dados no site, e Adjoris regionais
 
 * Um crowdsourcing realizado na plataforma do Atlas da Notcia (www.atlas.jor.br), entre dias 31/08/2017 e 30/09/2017
 
