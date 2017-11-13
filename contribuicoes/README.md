@@ -4,6 +4,6 @@ Para colaborar, faça um *pull request* com seu código, tabelas, folders, etc. 
 
 Colaboradores: 
 
-**Ainda não há colaboradores para este repositório** - Se você  um colaborador, faça também um *pull request* com seu nome aqui
+**Ainda não há colaboradores para este repositório** - Se você for um colaborador, faça também um *pull request* com seu nome aqui
 
 Formato: Nome Sobrenome - Twitter ou Link para site
