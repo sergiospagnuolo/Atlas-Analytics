@@ -1,4 +1,4 @@
-![Atlas Analytics](https://img.shields.io/badge/Atlas%20Analytics-v.1.0-green.svg)
+# Atlas Analytics
 
 Repositório de dados e análises do **Atlas da Notícia**, é uma iniciativa para mapear veículos produtores de notícias – especialmente de jornalismo local – no território brasileiro.
 
