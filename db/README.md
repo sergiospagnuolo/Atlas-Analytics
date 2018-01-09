@@ -16,4 +16,4 @@ Ele também contém *views*, ou seja, recortes dos dados já realizados pela equ
 
 Para visualizar a totalidades dos dados contidos apenas no levantamento do Atlas, vá para a aba *Execute SQL* e digite: `SELECT * FROM atlas`. Isso lhe dará acesso a todas as informações necessárias. 
 
-Para filtrar as informações apenas por Estado, por exemplo, você pode rodar o comando: `SELECT * FROM atlas where UF = "MT"`, o que lhe retornaria os resultados relativos ao Mato Grosso do Sul.
+Para filtrar as informações apenas por Estado, por exemplo, você pode rodar o comando: `SELECT * FROM atlas where UF = "MS"`, o que lhe retornaria os resultados relativos ao Mato Grosso do Sul.
