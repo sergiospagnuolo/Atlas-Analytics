@@ -1,0 +1,1 @@
+dados <- read.csv("../tabelas-oficiais/atlas.csv", header = T)
