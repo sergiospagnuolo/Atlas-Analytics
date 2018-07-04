@@ -1,3 +1,9 @@
-select cidade, uf from idhm_municipal_2010
-where cidade not in (select distinct cidade from 
-(select * from atlas_radiofrequencia union select * from atlas))
+SELECT r.cidade, r.uf
+
+FROM idhm_municipal_2010 r 
+
+LEFT JOIN atlas_radiofrequencia c 
+
+    ON r.cidade = c.cidade AND r.uf = c.uf
+
+WHERE c.cidade IS NULL AND c.uf IS NULL
