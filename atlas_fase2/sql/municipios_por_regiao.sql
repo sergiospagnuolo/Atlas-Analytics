@@ -1,0 +1,1 @@
+CREATE VIEW `municipios_por_regiao` as select regiao, count(*) municipios from ibge_pop group by regiao

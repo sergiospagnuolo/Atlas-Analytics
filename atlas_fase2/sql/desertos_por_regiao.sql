@@ -1,0 +1,1 @@
+CREATE VIEW `desertos_por_regiao` as select regiao, count(*) municipios from desertos group by regiao
