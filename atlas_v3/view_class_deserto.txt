@@ -1,0 +1,16 @@
+SELECT    codmun, 
+          ibge_pop.cidade, 
+          ibge_pop.uf, 
+          regiao, 
+          pop_dou_2017, 
+          idhm, 
+          CASE 
+                    WHEN Count(DISTINCT veiculos.id) > 2 THEN 'NÃO DESERTO' 
+                    WHEN Count(DISTINCT veiculos.id) = 0 THEN 'DESERTO' 
+                    ELSE 'QUASE DESERTO' 
+          END AS class_deserto
+FROM      ibge_pop 
+JOIN idhm_municipal_2010 on ibge_pop.codmun = idhm_municipal_2010.Codmun7
+LEFT JOIN veiculos ON        ibge_pop.codmun = veiculos.cod_ibge 
+group by codmun
+

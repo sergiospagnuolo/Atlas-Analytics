@@ -1,0 +1,12 @@
+SELECT ibge_pop.cidade, 
+       ibge_pop.uf, 
+       Count(DISTINCT veiculos.id)                                  AS qtd_veiculos, 
+       ibge_pop.codmun, 
+       ibge_pop.pop_dou_2017,
+       Count(DISTINCT veiculos.id) * 100000 / ibge_pop.pop_dou_2017 AS veiculos_por_100khab 
+FROM   veiculos 
+       JOIN ibge_pop 
+         ON veiculos.cod_ibge = ibge_pop.codmun 
+GROUP  BY ibge_pop.cidade, 
+          ibge_pop.uf 
+ORDER  BY ibge_pop.cidade 
