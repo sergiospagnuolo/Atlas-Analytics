@@ -1,0 +1,49 @@
+-- Criando tabela de Segmentos Principais
+CREATE TABLE `segmentos` (
+	`id` INTEGER,
+	`segmento`  TEXT);
+
+insert into segmentos values (1,'Jornal');
+insert into segmentos values (2,'Online');
+insert into segmentos values (3,'Revista');
+insert into segmentos values (4,'Rádio');
+insert into segmentos values (5,'Televisão');
+
+select * from segmentos;
+
+-- Criando tabela de Fontes
+CREATE TABLE `fontes` (
+	`id` INTEGER,
+	`fonte`  TEXT);
+
+insert into fontes values (1,'Adjori-PR');
+insert into fontes values (2,'Adjori-RS');
+insert into fontes values (3,'Adjori-SP');
+insert into fontes values (4,'Adjori-SC');
+insert into fontes values (5,'Atlas 2.0');
+insert into fontes values (6,'Atlas da Notícia');
+insert into fontes values (7,'Central de Diários');
+insert into fontes values (8,'MCTIC');
+insert into fontes values (9,'Secom/PR');
+
+select * from fontes;
+
+-- Criando tabela de Regioes Metropolitanas
+CREATE TABLE `regioes_metropolitanas` (
+	`id` INTEGER,
+	`regiao_metropolitana`  TEXT);
+
+insert into regioes_metropolitanas values (1,'RIDE DF');
+insert into regioes_metropolitanas values (2,'RM Fortaleza');
+insert into regioes_metropolitanas values (3,'RM Porto Alegre');
+insert into regioes_metropolitanas values (4,'RM Curitiba');
+insert into regioes_metropolitanas values (5,'RM São Paulo');
+insert into regioes_metropolitanas values (6,'RM Recife');
+insert into regioes_metropolitanas values (7,'RM Belém');
+insert into regioes_metropolitanas values (8,'RM Rio de Janeiro');
+insert into regioes_metropolitanas values (9,'RM Belo Horizonte');
+insert into regioes_metropolitanas values (10,'RM Salvador');
+insert into regioes_metropolitanas values (11,'N/D');
+
+select * from regioes_metropolitanas;
+

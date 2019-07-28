@@ -1,0 +1,9 @@
+CREATE TABLE "ibge_pop" (
+	`uf`	TEXT,
+	`codmun`	TEXT,
+	`cidade`	TEXT,
+	`pop_tcu_2016`	INTEGER,
+	`pop_dou_2017`	INTEGER,
+	`tcg_2016_2017`	TEXT,
+	`remanej_limitesmunicip`	TEXT
+, regiao)

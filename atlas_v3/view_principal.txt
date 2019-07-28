@@ -1,0 +1,6 @@
+select veiculos.*,segmentos.segmento,ibge_pop.cidade,ibge_pop.uf,ibge_pop.regiao,fontes.fonte,regioes_metropolitanas.regiao_metropolitana from veiculos
+join segmentos on veiculos.id_segmento = segmentos.id
+join ibge_pop on veiculos.cod_ibge = ibge_pop.codmun
+join fontes on veiculos.id_fonte = fontes.id
+join regioes_metropolitanas on veiculos.id_regiao_metropolitana = regioes_metropolitanas.id
+order by veiculos.id

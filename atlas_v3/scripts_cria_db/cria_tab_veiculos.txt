@@ -1,0 +1,30 @@
+CREATE TABLE `veiculos` (
+	`id` INTEGER,
+	`id_segmento`  INTEGER,
+	`nome_veiculo` TEXT,
+	`cod_ibge` INTEGER,
+	`pais` TEXT,
+	`id_fonte` INTEGER,
+	`jornalismo` INTEGER,
+	`id_regiao_metropolitana` INTEGER);
+
+INSERT INTO veiculos
+SELECT id, 
+       (SELECT id 
+        FROM   segmentos 
+        WHERE  Upper(segmento) = Upper(atlas1e2.segmento_principal)) AS id_segmento, 
+       nome                                                          AS nome_veiculo, 
+       ifnull(codmun,'5300108')                                      AS cod_ibge,
+       pais,
+       (SELECT id 
+        FROM   fontes 
+        WHERE  Upper(fonte) = Upper(atlas1e2.fonte))                 AS id_fonte, 
+       jornalismo, 
+       ifnull((SELECT id 
+        FROM   regioes_metropolitanas 
+        WHERE  Upper(regiao_metropolitana) = Upper(atlas1e2.regiao_metropolitana)),11) AS id_regiao_metropolitana 
+FROM   atlas1e2 
+       LEFT JOIN ibge_pop 
+              ON ibge_pop.cidade = atlas1e2.cidade 
+                 AND ibge_pop.uf = atlas1e2.uf 
+				 
